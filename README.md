@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+First proyect for learn React (https://www.youtube.com/watch?v=I2UBjN5ER4s&t=145s)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
